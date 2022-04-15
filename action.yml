@@ -20,4 +20,4 @@ outputs:
     description: 'Success or failure'
 runs:
   using: 'docker'
-  image: 'Dockerfile'
+  image: 'Dockerfile-build'
