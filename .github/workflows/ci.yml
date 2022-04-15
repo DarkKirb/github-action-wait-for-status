@@ -1,6 +1,6 @@
 name: Continuous Integration
 env:
-  DOCKER_IMAGE: wyrihaximusgithubactions/wait-for-status
+  DOCKER_IMAGE: darkkirb/wait-for-status
   DOCKER_BUILDKIT: 1
 on:
   push:
