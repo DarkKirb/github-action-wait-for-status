@@ -1,1 +1,1 @@
-FROM wyrihaximusgithubactions/wait-for-status:master
+FROM darkkirb/wait-for-status:master
